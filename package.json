@@ -1,0 +1,19 @@
+{
+  "name": "momkidcareassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gautam Gupta",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.7.4",
+    "nodemailer": "^7.0.5"
+  }
+}
