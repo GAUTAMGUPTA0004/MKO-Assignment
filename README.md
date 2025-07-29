@@ -16,10 +16,11 @@ mailparser: Parses raw email content into structured text.
 1. Clone the Repository
 ``bash
 git clone <https://github.com/GAUTAMGUPTA0004/MKO-Assignment>
+
 cd <MKO-Assignment>
 
 
-2. Install Dependencies
+3. Install Dependencies
 Install required packages by running:
 
 ``bash
