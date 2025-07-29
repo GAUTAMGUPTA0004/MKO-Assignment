@@ -16,3 +16,5 @@ function extractDetails(text) {
 
   return { name, email, phone };
 }
+
+module.exports = extractDetails;
